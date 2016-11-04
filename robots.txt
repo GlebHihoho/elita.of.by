@@ -1,2 +1,2 @@
 Host: www.elita.of.by
-Sitemap: www.elita.of.by/sitemap.xml
+Sitemap: http://elita.of.by/sitemap.xml
